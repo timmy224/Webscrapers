@@ -1,0 +1,13 @@
+Differences between NumPy and Python arrays
+
+1. NumPy arrays have fixed size at creation, unlike Python lists which can grow 
+dynamically. Changing the size of "ndarray" from NumPy will create a new array 
+and delete the original. 
+
+2. Elements in NumPy array are required to be of the same data type, thus is the 
+same size in memory. Exception: Arrays (both Python and NumPy) of objects can be created, 
+thus allowing arrays of different sized elements 
+
+3. NumPy arrays facilitate advanced math and other types of operations on large numbers of data. 
+
+4. Growing number of Python-based packages require input and produce outputs of NumPy arrays

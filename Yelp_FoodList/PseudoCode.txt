@@ -1,0 +1,38 @@
+1. Read CSV list for restaurant names
+2. Create new CSV file with following column names: (use open with and include create date)
+    a. Name
+    b. Cuisine
+    c. Budget
+    d. Location
+    e. Menu/Special - leave blank
+    f. Notes - leave blank 
+    g. Yelp Link
+2. For each restaurant (FOR LOOP):
+    a. Define in own function: 
+        3. Go to Yelp Website 
+        - (Optional) wait time for webpage load
+        4. Read restaurant name from file
+        5. Enter restaurant name in search bar
+        6. Click Search Button
+        - (Optional) wait time for webpage load
+            a. check for error response (no valid restaurant)
+        7. Click on appropriate restaurant link
+        - (Optional) wait time for webpage load
+    b. Define in own function: 
+        8. Get text for:
+            a. cuisine
+            b. restaurant name
+            c. budget (number of yelp dollar signs)
+            d. Location
+                i. get address
+                ii. (optional) - work on using locality.nyc for neighborhood designation
+            e. Yelp link
+            f. write to CSV file
+    c. Go back to search bar
+3. Close new CSV file
+4. Print message upon completion 
+
+
+        
+
+    

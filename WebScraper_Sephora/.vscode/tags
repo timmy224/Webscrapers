@@ -1,0 +1,395 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+1test_datetime.py	../1test_datetime.py	1;"	kind:file	line:1
+1test_nested_forloop.py	../1test_nested_forloop.py	1;"	kind:file	line:1
+BeautifulSoup	../Sephora_1.py	/^from bs4 import BeautifulSoup$/;"	kind:namespace	line:3
+BeautifulSoup	../Sephora_2.py	/^from bs4 import BeautifulSoup$/;"	kind:namespace	line:3
+BeautifulSoup	../Sephora_3.py	/^from bs4 import BeautifulSoup$/;"	kind:namespace	line:4
+BeautifulSoup	../Sephora_4.py	/^from bs4 import BeautifulSoup$/;"	kind:namespace	line:4
+BeautifulSoup	../Sephora_5.py	/^from bs4 import BeautifulSoup$/;"	kind:namespace	line:4
+BeautifulSoup	../Sephora_v2.py	/^from bs4 import BeautifulSoup$/;"	kind:namespace	line:10
+BeautifulSoup	../Sephora_v2_Algenist.py	/^from bs4 import BeautifulSoup$/;"	kind:namespace	line:5
+BeautifulSoup	../Sephora_v2_Clinique.py	/^from bs4 import BeautifulSoup$/;"	kind:namespace	line:4
+BeautifulSoup	../Sephora_v2_Dr-Brandt.py	/^from bs4 import BeautifulSoup$/;"	kind:namespace	line:4
+BeautifulSoup	../Sephora_v2_Dr-Dennis-Gross.py	/^from bs4 import BeautifulSoup$/;"	kind:namespace	line:4
+BeautifulSoup	../Sephora_v2_Dr-Dennis.py	/^from bs4 import BeautifulSoup$/;"	kind:namespace	line:4
+BeautifulSoup	../Sephora_v2_Dr-Jart.py	/^from bs4 import BeautifulSoup$/;"	kind:namespace	line:4
+BeautifulSoup	../Sephora_v2_Drunk-Elephant.py	/^from bs4 import BeautifulSoup$/;"	kind:namespace	line:4
+BeautifulSoup	../Sephora_v2_all_content.py	/^from bs4 import BeautifulSoup$/;"	kind:namespace	line:5
+BeautifulSoup	../algenist_test.py	/^from bs4 import BeautifulSoup$/;"	kind:namespace	line:5
+BeautifulSoup	../brand_productName.py	/^from bs4 import BeautifulSoup$/;"	kind:namespace	line:4
+BeautifulSoup	../next_test.py	/^from bs4 import BeautifulSoup$/;"	kind:namespace	line:3
+BeautifulSoup	../organized_sephora.py	/^from bs4 import BeautifulSoup$/;"	kind:namespace	line:3
+BeautifulSoup	../test_sephora.py	/^from bs4 import BeautifulSoup$/;"	kind:namespace	line:4
+By	../Fortune500_Scraper.py	/^from selenium.webdriver.common.by import By$/;"	kind:namespace	line:4
+By	../Sephora_2.py	/^from selenium.webdriver.common.by import By$/;"	kind:namespace	line:5
+By	../Sephora_4.py	/^from selenium.webdriver.common.by import By$/;"	kind:namespace	line:6
+By	../Sephora_5.py	/^from selenium.webdriver.common.by import By$/;"	kind:namespace	line:6
+By	../Sephora_v2.py	/^from selenium.webdriver.common.by import By$/;"	kind:namespace	line:12
+By	../Sephora_v2_Algenist.py	/^from selenium.webdriver.common.by import By$/;"	kind:namespace	line:7
+By	../Sephora_v2_Clinique.py	/^from selenium.webdriver.common.by import By$/;"	kind:namespace	line:7
+By	../Sephora_v2_Dr-Brandt.py	/^from selenium.webdriver.common.by import By$/;"	kind:namespace	line:7
+By	../Sephora_v2_Dr-Dennis-Gross.py	/^from selenium.webdriver.common.by import By$/;"	kind:namespace	line:7
+By	../Sephora_v2_Dr-Dennis.py	/^from selenium.webdriver.common.by import By$/;"	kind:namespace	line:7
+By	../Sephora_v2_Dr-Jart.py	/^from selenium.webdriver.common.by import By$/;"	kind:namespace	line:7
+By	../Sephora_v2_Drunk-Elephant.py	/^from selenium.webdriver.common.by import By$/;"	kind:namespace	line:7
+By	../Sephora_v2_all_content.py	/^from selenium.webdriver.common.by import By$/;"	kind:namespace	line:7
+By	../algenist_test.py	/^from selenium.webdriver.common.by import By$/;"	kind:namespace	line:7
+By	../brand_productName.py	/^from selenium.webdriver.common.by import By$/;"	kind:namespace	line:6
+By	../next_test.py	/^from selenium.webdriver.common.by import By$/;"	kind:namespace	line:5
+By	../test_sephora.py	/^from selenium.webdriver.common.by import By$/;"	kind:namespace	line:6
+EC	../Fortune500_Scraper.py	/^from selenium.webdriver.support import expected_conditions as EC$/;"	kind:namespace	line:6
+EC	../Sephora_2.py	/^from selenium.webdriver.support import expected_conditions as EC$/;"	kind:namespace	line:8
+EC	../Sephora_4.py	/^from selenium.webdriver.support import expected_conditions as EC$/;"	kind:namespace	line:9
+EC	../brand_productName.py	/^from selenium.webdriver.support import expected_conditions as EC$/;"	kind:namespace	line:9
+EC	../next_test.py	/^from selenium.webdriver.support import expected_conditions as EC$/;"	kind:namespace	line:8
+Fortune500Scraper	../Fortune500_Scraper.py	/^class Fortune500Scraper:$/;"	kind:class	line:9
+Fortune500_Scraper.py	../Fortune500_Scraper.py	1;"	kind:file	line:1
+Keys	../Sephora_1.py	/^from selenium.webdriver.common.keys import Keys$/;"	kind:namespace	line:5
+Keys	../Sephora_2.py	/^from selenium.webdriver.common.keys import Keys$/;"	kind:namespace	line:6
+Keys	../Sephora_3.py	/^from selenium.webdriver.common.keys import Keys$/;"	kind:namespace	line:6
+Keys	../Sephora_4.py	/^from selenium.webdriver.common.keys import Keys$/;"	kind:namespace	line:7
+Keys	../Sephora_5.py	/^from selenium.webdriver.common.keys import Keys$/;"	kind:namespace	line:7
+Keys	../Sephora_v2.py	/^from selenium.webdriver.common.keys import Keys$/;"	kind:namespace	line:13
+Keys	../Sephora_v2_Algenist.py	/^from selenium.webdriver.common.keys import Keys$/;"	kind:namespace	line:8
+Keys	../Sephora_v2_Clinique.py	/^from selenium.webdriver.common.keys import Keys$/;"	kind:namespace	line:8
+Keys	../Sephora_v2_Dr-Brandt.py	/^from selenium.webdriver.common.keys import Keys$/;"	kind:namespace	line:8
+Keys	../Sephora_v2_Dr-Dennis-Gross.py	/^from selenium.webdriver.common.keys import Keys$/;"	kind:namespace	line:8
+Keys	../Sephora_v2_Dr-Dennis.py	/^from selenium.webdriver.common.keys import Keys$/;"	kind:namespace	line:8
+Keys	../Sephora_v2_Dr-Jart.py	/^from selenium.webdriver.common.keys import Keys$/;"	kind:namespace	line:8
+Keys	../Sephora_v2_Drunk-Elephant.py	/^from selenium.webdriver.common.keys import Keys$/;"	kind:namespace	line:8
+Keys	../Sephora_v2_all_content.py	/^from selenium.webdriver.common.keys import Keys$/;"	kind:namespace	line:8
+Keys	../algenist_test.py	/^from selenium.webdriver.common.keys import Keys$/;"	kind:namespace	line:8
+Keys	../brand_productName.py	/^from selenium.webdriver.common.keys import Keys$/;"	kind:namespace	line:7
+Keys	../next_test.py	/^from selenium.webdriver.common.keys import Keys$/;"	kind:namespace	line:6
+Keys	../organized_sephora.py	/^from selenium.webdriver.common.keys import Keys$/;"	kind:namespace	line:5
+Keys	../test_sephora.py	/^from selenium.webdriver.common.keys import Keys$/;"	kind:namespace	line:7
+NoSuchElementException	../Sephora_5.py	/^from selenium.common.exceptions import NoSuchElementException    $/;"	kind:namespace	line:8
+NoSuchElementException	../Sephora_v2.py	/^from selenium.common.exceptions import NoSuchElementException    $/;"	kind:namespace	line:14
+NoSuchElementException	../Sephora_v2_Algenist.py	/^from selenium.common.exceptions import NoSuchElementException    $/;"	kind:namespace	line:9
+NoSuchElementException	../Sephora_v2_Clinique.py	/^from selenium.common.exceptions import NoSuchElementException    $/;"	kind:namespace	line:9
+NoSuchElementException	../Sephora_v2_Dr-Brandt.py	/^from selenium.common.exceptions import NoSuchElementException    $/;"	kind:namespace	line:9
+NoSuchElementException	../Sephora_v2_Dr-Dennis-Gross.py	/^from selenium.common.exceptions import NoSuchElementException    $/;"	kind:namespace	line:9
+NoSuchElementException	../Sephora_v2_Dr-Dennis.py	/^from selenium.common.exceptions import NoSuchElementException    $/;"	kind:namespace	line:9
+NoSuchElementException	../Sephora_v2_Dr-Jart.py	/^from selenium.common.exceptions import NoSuchElementException    $/;"	kind:namespace	line:9
+NoSuchElementException	../Sephora_v2_Drunk-Elephant.py	/^from selenium.common.exceptions import NoSuchElementException    $/;"	kind:namespace	line:9
+NoSuchElementException	../Sephora_v2_all_content.py	/^from selenium.common.exceptions import NoSuchElementException    $/;"	kind:namespace	line:9
+NoSuchElementException	../algenist_test.py	/^from selenium.common.exceptions import NoSuchElementException    $/;"	kind:namespace	line:9
+NoSuchElementException	../test_sephora.py	/^from selenium.common.exceptions import NoSuchElementException    $/;"	kind:namespace	line:8
+Sephora_1.py	../Sephora_1.py	1;"	kind:file	line:1
+Sephora_2.py	../Sephora_2.py	1;"	kind:file	line:1
+Sephora_3.py	../Sephora_3.py	1;"	kind:file	line:1
+Sephora_4.py	../Sephora_4.py	1;"	kind:file	line:1
+Sephora_5.py	../Sephora_5.py	1;"	kind:file	line:1
+Sephora_v2.py	../Sephora_v2.py	1;"	kind:file	line:1
+Sephora_v2_Algenist.py	../Sephora_v2_Algenist.py	1;"	kind:file	line:1
+Sephora_v2_Clinique.py	../Sephora_v2_Clinique.py	1;"	kind:file	line:1
+Sephora_v2_Dr-Brandt.py	../Sephora_v2_Dr-Brandt.py	1;"	kind:file	line:1
+Sephora_v2_Dr-Dennis-Gross.py	../Sephora_v2_Dr-Dennis-Gross.py	1;"	kind:file	line:1
+Sephora_v2_Dr-Dennis.py	../Sephora_v2_Dr-Dennis.py	1;"	kind:file	line:1
+Sephora_v2_Dr-Jart.py	../Sephora_v2_Dr-Jart.py	1;"	kind:file	line:1
+Sephora_v2_Drunk-Elephant.py	../Sephora_v2_Drunk-Elephant.py	1;"	kind:file	line:1
+Sephora_v2_all_content.py	../Sephora_v2_all_content.py	1;"	kind:file	line:1
+WebDriverWait	../Fortune500_Scraper.py	/^from selenium.webdriver.support.wait import WebDriverWait$/;"	kind:namespace	line:5
+WebDriverWait	../Sephora_2.py	/^from selenium.webdriver.support.ui import WebDriverWait$/;"	kind:namespace	line:7
+WebDriverWait	../Sephora_4.py	/^from selenium.webdriver.support.ui import WebDriverWait$/;"	kind:namespace	line:8
+WebDriverWait	../Sephora_5.py	/^from selenium.webdriver.support.ui import WebDriverWait$/;"	kind:namespace	line:9
+WebDriverWait	../Sephora_v2.py	/^from selenium.webdriver.support.ui import WebDriverWait$/;"	kind:namespace	line:15
+WebDriverWait	../Sephora_v2_Algenist.py	/^from selenium.webdriver.support.ui import WebDriverWait$/;"	kind:namespace	line:10
+WebDriverWait	../Sephora_v2_Clinique.py	/^from selenium.webdriver.support.ui import WebDriverWait$/;"	kind:namespace	line:10
+WebDriverWait	../Sephora_v2_Dr-Brandt.py	/^from selenium.webdriver.support.ui import WebDriverWait$/;"	kind:namespace	line:10
+WebDriverWait	../Sephora_v2_Dr-Dennis-Gross.py	/^from selenium.webdriver.support.ui import WebDriverWait$/;"	kind:namespace	line:10
+WebDriverWait	../Sephora_v2_Dr-Dennis.py	/^from selenium.webdriver.support.ui import WebDriverWait$/;"	kind:namespace	line:10
+WebDriverWait	../Sephora_v2_Dr-Jart.py	/^from selenium.webdriver.support.ui import WebDriverWait$/;"	kind:namespace	line:10
+WebDriverWait	../Sephora_v2_Drunk-Elephant.py	/^from selenium.webdriver.support.ui import WebDriverWait$/;"	kind:namespace	line:10
+WebDriverWait	../Sephora_v2_all_content.py	/^from selenium.webdriver.support.ui import WebDriverWait$/;"	kind:namespace	line:10
+WebDriverWait	../algenist_test.py	/^from selenium.webdriver.support.ui import WebDriverWait$/;"	kind:namespace	line:10
+WebDriverWait	../brand_productName.py	/^from selenium.webdriver.support.ui import WebDriverWait$/;"	kind:namespace	line:8
+WebDriverWait	../next_test.py	/^from selenium.webdriver.support.ui import WebDriverWait$/;"	kind:namespace	line:7
+WebDriverWait	../test_sephora.py	/^from selenium.webdriver.support.ui import WebDriverWait$/;"	kind:namespace	line:9
+__init__	../Fortune500_Scraper.py	/^    def __init__(self):$/;"	kind:member	line:10
+a	../1test_nested_forloop.py	/^a = ["1", "2", "3", "4"]$/;"	kind:variable	line:21
+a	../nestLoop_test.py	/^a = ["a", " ", "b", "c"]$/;"	kind:variable	line:1
+access_page	../Sephora_3.py	/^def access_page():$/;"	kind:function	line:19
+algenist_test.py	../algenist_test.py	1;"	kind:file	line:1
+b	../1test_nested_forloop.py	/^b = ["a", "b", "c"]$/;"	kind:variable	line:22
+b	../nestLoop_test.py	/^b = ["1", "2", "3"]$/;"	kind:variable	line:2
+brand	../brand_productName.py	/^brand = list(product_info.children)[0].next_element.next_element.text$/;"	kind:variable	line:24
+brand	../organized_sephora.py	/^        brand = list(product_info.children)[0].next_element.next_element.text$/;"	kind:variable	line:43
+brand_productName.py	../brand_productName.py	1;"	kind:file	line:1
+c	../1test_nested_forloop.py	/^c = ["single"]$/;"	kind:variable	line:23
+c	../nestLoop_test.py	/^c = ["test string"]$/;"	kind:variable	line:3
+chrome_options	../Sephora_2.py	/^chrome_options = webdriver.ChromeOptions()$/;"	kind:variable	line:14
+chrome_options	../Sephora_3.py	/^chrome_options = webdriver.ChromeOptions()$/;"	kind:variable	line:13
+chrome_options	../Sephora_4.py	/^chrome_options = webdriver.ChromeOptions()$/;"	kind:variable	line:15
+chrome_options	../Sephora_5.py	/^chrome_options = webdriver.ChromeOptions()$/;"	kind:variable	line:14
+chrome_options	../Sephora_v2.py	/^chrome_options = webdriver.ChromeOptions()$/;"	kind:variable	line:20
+chrome_options	../Sephora_v2_Algenist.py	/^chrome_options = webdriver.ChromeOptions()$/;"	kind:variable	line:15
+chrome_options	../Sephora_v2_Clinique.py	/^chrome_options = webdriver.ChromeOptions()$/;"	kind:variable	line:15
+chrome_options	../Sephora_v2_Dr-Brandt.py	/^chrome_options = webdriver.ChromeOptions()$/;"	kind:variable	line:15
+chrome_options	../Sephora_v2_Dr-Dennis-Gross.py	/^chrome_options = webdriver.ChromeOptions()$/;"	kind:variable	line:15
+chrome_options	../Sephora_v2_Dr-Dennis.py	/^chrome_options = webdriver.ChromeOptions()$/;"	kind:variable	line:15
+chrome_options	../Sephora_v2_Dr-Jart.py	/^chrome_options = webdriver.ChromeOptions()$/;"	kind:variable	line:15
+chrome_options	../Sephora_v2_Drunk-Elephant.py	/^chrome_options = webdriver.ChromeOptions()$/;"	kind:variable	line:15
+chrome_options	../Sephora_v2_all_content.py	/^chrome_options = webdriver.ChromeOptions()$/;"	kind:variable	line:15
+chrome_options	../algenist_test.py	/^chrome_options = webdriver.ChromeOptions()$/;"	kind:variable	line:15
+chrome_options	../brand_productName.py	/^chrome_options = webdriver.ChromeOptions()$/;"	kind:variable	line:14
+chrome_options	../organized_sephora.py	/^    chrome_options = webdriver.ChromeOptions()$/;"	kind:variable	line:13
+chrome_options	../test_sephora.py	/^chrome_options = webdriver.ChromeOptions()$/;"	kind:variable	line:16
+company_links	../Fortune500_Scraper.py	/^    company_links = scraper.get_links(max_company_count=100)$/;"	kind:variable	line:45
+content	../regex_test.py	/^content = remove_html_tags(html)$/;"	kind:variable	line:67
+corrections	../1test_nested_forloop.py	/^corrections = [a, b, c]$/;"	kind:variable	line:24
+csv	../Sephora_1.py	/^import csv $/;"	kind:namespace	line:1
+csv	../Sephora_2.py	/^import csv $/;"	kind:namespace	line:1
+csv	../Sephora_3.py	/^import csv $/;"	kind:namespace	line:1
+csv	../Sephora_4.py	/^import csv $/;"	kind:namespace	line:1
+csv	../Sephora_5.py	/^import csv $/;"	kind:namespace	line:1
+csv	../Sephora_v2.py	/^import csv $/;"	kind:namespace	line:7
+csv	../Sephora_v2_Algenist.py	/^import csv $/;"	kind:namespace	line:1
+csv	../Sephora_v2_Clinique.py	/^import csv $/;"	kind:namespace	line:1
+csv	../Sephora_v2_Dr-Brandt.py	/^import csv $/;"	kind:namespace	line:1
+csv	../Sephora_v2_Dr-Dennis-Gross.py	/^import csv $/;"	kind:namespace	line:1
+csv	../Sephora_v2_Dr-Dennis.py	/^import csv $/;"	kind:namespace	line:1
+csv	../Sephora_v2_Dr-Jart.py	/^import csv $/;"	kind:namespace	line:1
+csv	../Sephora_v2_Drunk-Elephant.py	/^import csv $/;"	kind:namespace	line:1
+csv	../Sephora_v2_all_content.py	/^import csv $/;"	kind:namespace	line:1
+csv	../algenist_test.py	/^import csv $/;"	kind:namespace	line:1
+csv	../brand_productName.py	/^import csv $/;"	kind:namespace	line:1
+csv	../next_test.py	/^import csv $/;"	kind:namespace	line:1
+csv	../organized_sephora.py	/^import csv $/;"	kind:namespace	line:1
+csv	../test_sephora.py	/^import csv $/;"	kind:namespace	line:1
+date	../1test_datetime.py	/^from datetime import date$/;"	kind:namespace	line:1
+date	../Sephora_v2_Algenist.py	/^from datetime import date$/;"	kind:namespace	line:4
+date	../Sephora_v2_Clinique.py	/^from datetime import date$/;"	kind:namespace	line:5
+date	../Sephora_v2_Dr-Brandt.py	/^from datetime import date$/;"	kind:namespace	line:5
+date	../Sephora_v2_Dr-Dennis-Gross.py	/^from datetime import date$/;"	kind:namespace	line:5
+date	../Sephora_v2_Dr-Dennis.py	/^from datetime import date$/;"	kind:namespace	line:5
+date	../Sephora_v2_Dr-Jart.py	/^from datetime import date$/;"	kind:namespace	line:5
+date	../Sephora_v2_Drunk-Elephant.py	/^from datetime import date$/;"	kind:namespace	line:5
+date	../Sephora_v2_all_content.py	/^from datetime import date$/;"	kind:namespace	line:4
+date	../algenist_test.py	/^from datetime import date$/;"	kind:namespace	line:4
+description	../brand_productName.py	/^description = soup.find("div", {"class": "css-1vwy1pm"}).get_text()$/;"	kind:variable	line:27
+description	../organized_sephora.py	/^        description = soup.find("div", {"class": "css-1vwy1pm"})$/;"	kind:variable	line:53
+driver	../Sephora_2.py	/^driver = webdriver.Chrome(chrome_options=chrome_options)$/;"	kind:variable	line:17
+driver	../Sephora_3.py	/^driver = webdriver.Chrome(chrome_options=chrome_options)$/;"	kind:variable	line:16
+driver	../Sephora_4.py	/^driver = webdriver.Chrome(chrome_options=chrome_options)$/;"	kind:variable	line:18
+driver	../Sephora_5.py	/^driver = webdriver.Chrome(chrome_options=chrome_options)$/;"	kind:variable	line:17
+driver	../Sephora_v2.py	/^driver = webdriver.Chrome(chrome_options=chrome_options)$/;"	kind:variable	line:23
+driver	../Sephora_v2_Algenist.py	/^driver = webdriver.Chrome(chrome_options=chrome_options)$/;"	kind:variable	line:18
+driver	../Sephora_v2_Clinique.py	/^driver = webdriver.Chrome(chrome_options=chrome_options)$/;"	kind:variable	line:18
+driver	../Sephora_v2_Dr-Brandt.py	/^driver = webdriver.Chrome(chrome_options=chrome_options)$/;"	kind:variable	line:18
+driver	../Sephora_v2_Dr-Dennis-Gross.py	/^driver = webdriver.Chrome(chrome_options=chrome_options)$/;"	kind:variable	line:18
+driver	../Sephora_v2_Dr-Dennis.py	/^driver = webdriver.Chrome(chrome_options=chrome_options)$/;"	kind:variable	line:18
+driver	../Sephora_v2_Dr-Jart.py	/^driver = webdriver.Chrome(chrome_options=chrome_options)$/;"	kind:variable	line:18
+driver	../Sephora_v2_Drunk-Elephant.py	/^driver = webdriver.Chrome(chrome_options=chrome_options)$/;"	kind:variable	line:18
+driver	../Sephora_v2_all_content.py	/^driver = webdriver.Chrome(chrome_options=chrome_options)$/;"	kind:variable	line:18
+driver	../algenist_test.py	/^driver = webdriver.Chrome(chrome_options=chrome_options)$/;"	kind:variable	line:17
+driver	../brand_productName.py	/^driver = webdriver.Chrome(chrome_options=chrome_options)$/;"	kind:variable	line:17
+driver	../next_test.py	/^driver = webdriver.Chrome(chrome_options = options)$/;"	kind:variable	line:17
+driver	../organized_sephora.py	/^    driver = webdriver.Chrome(chrome_options=chrome_options)$/;"	kind:variable	line:16
+driver	../test_sephora.py	/^driver = webdriver.Chrome(chrome_options=chrome_options)$/;"	kind:variable	line:19
+end	../organized_sephora.py	/^        end = ind_lines.index("If you want to know more…")$/;"	kind:variable	line:65
+excel_start	../Sephora_3.py	/^def excel_start():$/;"	kind:function	line:24
+file_csv	../Sephora_4.py	/^file_csv = csv.writer(open('Sephora.csv', 'w'))$/;"	kind:variable	line:25
+file_csv	../Sephora_5.py	/^file_csv = csv.writer(open('Sephora.csv', 'w'))$/;"	kind:variable	line:20
+file_csv	../Sephora_v2.py	/^file_csv = csv.writer(open('Sephora.csv', 'w'))$/;"	kind:variable	line:26
+file_csv	../Sephora_v2_Algenist.py	/^file_csv = csv.writer(open('Sephora_Algenist_{}.csv'.format(date.today()), 'w'))$/;"	kind:variable	line:21
+file_csv	../Sephora_v2_Clinique.py	/^file_csv = csv.writer(open('Sephora_Clinique_{}.csv'.format(date.today()), 'w'))$/;"	kind:variable	line:21
+file_csv	../Sephora_v2_Dr-Brandt.py	/^file_csv = csv.writer(open('Sephora_Dr-Brandt-Skincare_{}.csv'.format(date.today()), 'w'))$/;"	kind:variable	line:21
+file_csv	../Sephora_v2_Dr-Dennis-Gross.py	/^file_csv = csv.writer(open('Sephora_Dr-Brandt-Skincare_{}.csv'.format(date.today()), 'w'))$/;"	kind:variable	line:21
+file_csv	../Sephora_v2_Dr-Dennis.py	/^file_csv = csv.writer(open('Sephora_Dr-Dennis-Gross_{}.csv'.format(date.today()), 'w'))$/;"	kind:variable	line:21
+file_csv	../Sephora_v2_Dr-Jart.py	/^file_csv = csv.writer(open('Sephora_Dr-Jart_{}.csv'.format(date.today()), 'w'))$/;"	kind:variable	line:21
+file_csv	../Sephora_v2_Drunk-Elephant.py	/^file_csv = csv.writer(open('Sephora_Drunk-Elephant_{}.csv'.format(date.today()), 'w'))$/;"	kind:variable	line:21
+file_csv	../Sephora_v2_all_content.py	/^file_csv = csv.writer(open('Sephora_{}.csv'.format(date.today()), 'w'))$/;"	kind:variable	line:21
+file_csv	../organized_sephora.py	/^    file_csv = csv.writer(open('Sephora.csv', 'w'))$/;"	kind:variable	line:24
+file_csv	../test_sephora.py	/^file_csv = csv.writer(open('Sephora.csv', 'w'))$/;"	kind:variable	line:23
+get_company_data	../Fortune500_Scraper.py	/^    def get_company_data(self, company_link):$/;"	kind:member	line:33
+get_info	../Sephora_1.py	/^def get_info():$/;"	kind:function	line:7
+get_info	../Sephora_2.py	/^def get_info():$/;"	kind:function	line:63
+get_info	../Sephora_4.py	/^def get_info():$/;"	kind:function	line:35
+get_info	../Sephora_5.py	/^def get_info():$/;"	kind:function	line:30
+get_info	../Sephora_v2.py	/^def get_info():$/;"	kind:function	line:36
+get_info	../Sephora_v2_Algenist.py	/^def get_info():$/;"	kind:function	line:31
+get_info	../Sephora_v2_Clinique.py	/^def get_info():$/;"	kind:function	line:31
+get_info	../Sephora_v2_Dr-Brandt.py	/^def get_info():$/;"	kind:function	line:31
+get_info	../Sephora_v2_Dr-Dennis-Gross.py	/^def get_info():$/;"	kind:function	line:31
+get_info	../Sephora_v2_Dr-Dennis.py	/^def get_info():$/;"	kind:function	line:31
+get_info	../Sephora_v2_Dr-Jart.py	/^def get_info():$/;"	kind:function	line:31
+get_info	../Sephora_v2_Drunk-Elephant.py	/^def get_info():$/;"	kind:function	line:31
+get_info	../Sephora_v2_all_content.py	/^def get_info():$/;"	kind:function	line:30
+get_info	../test_sephora.py	/^def get_info():$/;"	kind:function	line:33
+get_last_line_number	../Fortune500_Scraper.py	/^    def get_last_line_number(self):$/;"	kind:member	line:14
+get_links	../Fortune500_Scraper.py	/^    def get_links(self, max_company_count=1000):$/;"	kind:member	line:18
+if_you_want_to_know_more	../regex_test.py	/^def if_you_want_to_know_more():$/;"	kind:function	line:86
+if_you_want_to_know_more	../regex_test.py	/^def if_you_want_to_know_more(text):$/;"	kind:function	line:147
+if_you_want_to_know_more	../test_sephora.py	/^    def if_you_want_to_know_more(text):$/;"	kind:function	line:143
+if_you_want_to_know_more_desc	../regex_test.py	/^if_you_want_to_know_more_desc = if_you_want_to_know_more(content)$/;"	kind:variable	line:156
+if_you_want_to_know_more_header	../regex_test.py	/^if_you_want_to_know_more_header = text.index("If you want to know more…")$/;"	kind:variable	line:102
+ind_ingredient_text	../organized_sephora.py	/^        ind_ingredient_text = ingredient_text.split("\\n") $/;"	kind:variable	line:84
+ind_lines	../organized_sephora.py	/^        ind_lines = no_br.split("\\n")$/;"	kind:variable	line:62
+ind_prod_info	../Sephora_4.py	/^def ind_prod_info():$/;"	kind:function	line:61
+ingredient_class	../organized_sephora.py	/^        ingredient_class = driver.find_element_by_xpath("\/\/*[@class='css-1kianer']\/\/div[3]")$/;"	kind:variable	line:81
+ingredient_div	../organized_sephora.py	/^        ingredient_div = driver.find_element_by_xpath("\/\/*[contains(text(), 'Ingredients')]\/\/..")$/;"	kind:variable	line:78
+ingredient_text	../organized_sephora.py	/^        ingredient_text = ingredient_class.text$/;"	kind:variable	line:83
+item_info	../Sephora_3.py	/^def item_info():$/;"	kind:function	line:53
+j	../1test_nested_forloop.py	/^            j = ''.join(i)$/;"	kind:variable	line:32
+j	../1test_nested_forloop.py	/^j = ""$/;"	kind:variable	line:28
+j	../nestLoop_test.py	/^            j = ''.join(i)$/;"	kind:variable	line:11
+j	../nestLoop_test.py	/^j = ""$/;"	kind:variable	line:7
+know_more	../organized_sephora.py	/^        know_more = soup.find("b", text = "If you want to know more…")$/;"	kind:variable	line:73
+know_more_desc	../organized_sephora.py	/^        know_more_desc = know_more.next_sibling.next_sibling.next_sibling$/;"	kind:variable	line:74
+nestLoop_test.py	../nestLoop_test.py	1;"	kind:file	line:1
+nested_array	../nestLoop_test.py	/^nested_array = [a, b, c]$/;"	kind:variable	line:4
+new	../1test_nested_forloop.py	/^new = []$/;"	kind:variable	line:27
+new	../nestLoop_test.py	/^new = []$/;"	kind:variable	line:6
+next_button_exist	../Sephora_2.py	/^def next_button_exist():$/;"	kind:function	line:43
+next_button_exist	../Sephora_4.py	/^def next_button_exist():$/;"	kind:function	line:125
+next_button_exist	../Sephora_5.py	/^def next_button_exist():$/;"	kind:function	line:150
+next_button_exist	../Sephora_v2.py	/^def next_button_exist():$/;"	kind:function	line:208
+next_button_exist	../Sephora_v2_Algenist.py	/^def next_button_exist():$/;"	kind:function	line:200
+next_button_exist	../Sephora_v2_Clinique.py	/^def next_button_exist():$/;"	kind:function	line:203
+next_button_exist	../Sephora_v2_Dr-Brandt.py	/^def next_button_exist():$/;"	kind:function	line:203
+next_button_exist	../Sephora_v2_Dr-Dennis-Gross.py	/^def next_button_exist():$/;"	kind:function	line:203
+next_button_exist	../Sephora_v2_Dr-Dennis.py	/^def next_button_exist():$/;"	kind:function	line:203
+next_button_exist	../Sephora_v2_Dr-Jart.py	/^def next_button_exist():$/;"	kind:function	line:203
+next_button_exist	../Sephora_v2_Drunk-Elephant.py	/^def next_button_exist():$/;"	kind:function	line:208
+next_button_exist	../Sephora_v2_all_content.py	/^def next_button_exist():$/;"	kind:function	line:116
+next_button_exist	../next_test.py	/^def next_button_exist():$/;"	kind:function	line:25
+next_button_exist	../test_sephora.py	/^def next_button_exist():$/;"	kind:function	line:180
+next_page	../Sephora_3.py	/^def next_page():$/;"	kind:function	line:118
+next_test.py	../next_test.py	1;"	kind:file	line:1
+no_br	../organized_sephora.py	/^        no_br = remove_html_tags(str(description))$/;"	kind:variable	line:61
+options	../next_test.py	/^options = webdriver.ChromeOptions()$/;"	kind:variable	line:14
+organized_sephora.py	../organized_sephora.py	1;"	kind:file	line:1
+popUp_close	../Sephora_2.py	/^popUp_close = driver.find_element_by_class_name("css-ll28en").click()$/;"	kind:variable	line:22
+popUp_close	../next_test.py	/^popUp_close = driver.find_element_by_class_name("css-ll28en").click()$/;"	kind:variable	line:22
+popUp_close	../organized_sephora.py	/^    popUp_close = driver.find_element_by_class_name("css-ll28en").click()$/;"	kind:variable	line:20
+pprint	../Fortune500_Scraper.py	/^from pprint import pprint$/;"	kind:namespace	line:1
+product	../brand_productName.py	/^product = list(product_info.children)[0].next_element.next_sibling.text$/;"	kind:variable	line:25
+product	../organized_sephora.py	/^        product = list(product_info.children)[0].next_element.next_sibling.text$/;"	kind:variable	line:44
+product_click	../organized_sephora.py	/^        product_click = driver.find_element_by_class_name("css-ktoumz").click()$/;"	kind:variable	line:34
+product_content	../Sephora_5.py	/^def product_content():$/;"	kind:function	line:53
+product_content	../Sephora_v2.py	/^def product_content():$/;"	kind:function	line:59
+product_content	../Sephora_v2_Algenist.py	/^def product_content():$/;"	kind:function	line:54
+product_content	../Sephora_v2_Clinique.py	/^def product_content():$/;"	kind:function	line:54
+product_content	../Sephora_v2_Dr-Brandt.py	/^def product_content():$/;"	kind:function	line:54
+product_content	../Sephora_v2_Dr-Dennis-Gross.py	/^def product_content():$/;"	kind:function	line:54
+product_content	../Sephora_v2_Dr-Dennis.py	/^def product_content():$/;"	kind:function	line:54
+product_content	../Sephora_v2_Dr-Jart.py	/^def product_content():$/;"	kind:function	line:54
+product_content	../Sephora_v2_Drunk-Elephant.py	/^def product_content():$/;"	kind:function	line:54
+product_content	../Sephora_v2_all_content.py	/^def product_content():$/;"	kind:function	line:53
+product_content	../algenist_test.py	/^def product_content():$/;"	kind:function	line:20
+product_content	../test_sephora.py	/^def product_content():$/;"	kind:function	line:81
+product_info	../brand_productName.py	/^product_info = soup.find("div", {"class":"css-19965sg"})$/;"	kind:variable	line:23
+product_info	../organized_sephora.py	/^        product_info = soup.find("div", {"class":"css-19965sg"})$/;"	kind:variable	line:42
+ran_out_of_names	../organized_sephora.py	/^        ran_out_of_names = list(map(str, solutions_content))$/;"	kind:variable	line:68
+re	../Sephora_3.py	/^import re$/;"	kind:namespace	line:3
+re	../Sephora_4.py	/^import re$/;"	kind:namespace	line:3
+re	../Sephora_5.py	/^import re$/;"	kind:namespace	line:3
+re	../Sephora_v2.py	/^import re$/;"	kind:namespace	line:9
+re	../Sephora_v2_Algenist.py	/^import re$/;"	kind:namespace	line:3
+re	../Sephora_v2_Clinique.py	/^import re$/;"	kind:namespace	line:3
+re	../Sephora_v2_Dr-Brandt.py	/^import re$/;"	kind:namespace	line:3
+re	../Sephora_v2_Dr-Dennis-Gross.py	/^import re$/;"	kind:namespace	line:3
+re	../Sephora_v2_Dr-Dennis.py	/^import re$/;"	kind:namespace	line:3
+re	../Sephora_v2_Dr-Jart.py	/^import re$/;"	kind:namespace	line:3
+re	../Sephora_v2_Drunk-Elephant.py	/^import re$/;"	kind:namespace	line:3
+re	../Sephora_v2_all_content.py	/^import re$/;"	kind:namespace	line:3
+re	../algenist_test.py	/^import re$/;"	kind:namespace	line:3
+re	../brand_productName.py	/^import re$/;"	kind:namespace	line:3
+re	../organized_sephora.py	/^            import re$/;"	kind:namespace	line:57
+re	../regex_test.py	/^import re$/;"	kind:namespace	line:1
+re	../test_sephora.py	/^import re$/;"	kind:namespace	line:3
+regex_test.py	../regex_test.py	1;"	kind:file	line:1
+remove_html_tags	../Sephora_3.py	/^    def remove_html_tags(text):$/;"	kind:function	line:74
+remove_html_tags	../Sephora_4.py	/^    def remove_html_tags(text):$/;"	kind:function	line:82
+remove_html_tags	../Sephora_5.py	/^    def remove_html_tags(text):$/;"	kind:function	line:64
+remove_html_tags	../Sephora_v2.py	/^    def remove_html_tags(text):$/;"	kind:function	line:70
+remove_html_tags	../Sephora_v2_Algenist.py	/^    def remove_html_tags(text):$/;"	kind:function	line:65
+remove_html_tags	../Sephora_v2_Clinique.py	/^    def remove_html_tags(text):$/;"	kind:function	line:65
+remove_html_tags	../Sephora_v2_Dr-Brandt.py	/^    def remove_html_tags(text):$/;"	kind:function	line:65
+remove_html_tags	../Sephora_v2_Dr-Dennis-Gross.py	/^    def remove_html_tags(text):$/;"	kind:function	line:65
+remove_html_tags	../Sephora_v2_Dr-Dennis.py	/^    def remove_html_tags(text):$/;"	kind:function	line:65
+remove_html_tags	../Sephora_v2_Dr-Jart.py	/^    def remove_html_tags(text):$/;"	kind:function	line:65
+remove_html_tags	../Sephora_v2_Drunk-Elephant.py	/^    def remove_html_tags(text):$/;"	kind:function	line:65
+remove_html_tags	../Sephora_v2_all_content.py	/^    def remove_html_tags(text):$/;"	kind:function	line:64
+remove_html_tags	../algenist_test.py	/^    def remove_html_tags(text):$/;"	kind:function	line:32
+remove_html_tags	../organized_sephora.py	/^        def remove_html_tags(text):$/;"	kind:function	line:55
+remove_html_tags	../regex_test.py	/^def remove_html_tags(text):$/;"	kind:function	line:43
+remove_html_tags	../test_sephora.py	/^    def remove_html_tags(text):$/;"	kind:function	line:93
+results_page	../Sephora_3.py	/^def results_page():$/;"	kind:function	line:32
+scraper	../Fortune500_Scraper.py	/^    scraper = Fortune500Scraper()$/;"	kind:variable	line:43
+solution_content_final	../organized_sephora.py	/^        solution_content_final = " ".join(ran_out_of_names)$/;"	kind:variable	line:69
+solutions_content	../organized_sephora.py	/^        solutions_content = ind_lines[start+1:end]$/;"	kind:variable	line:67
+solutions_desc	../regex_test.py	/^solutions_desc = solutions_for(content)$/;"	kind:variable	line:145
+solutions_for	../regex_test.py	/^def solutions_for():$/;"	kind:function	line:79
+solutions_for	../regex_test.py	/^def solutions_for(text):$/;"	kind:function	line:131
+solutions_for	../test_sephora.py	/^    def solutions_for(text):$/;"	kind:function	line:132
+solutions_for_header	../regex_test.py	/^solutions_for_header = text.index("Solutions for:")$/;"	kind:variable	line:101
+soup	../brand_productName.py	/^soup = BeautifulSoup(driver.page_source, 'lxml') $/;"	kind:variable	line:20
+soup	../organized_sephora.py	/^        soup = BeautifulSoup(driver.page_source, 'lxml') $/;"	kind:variable	line:38
+start	../organized_sephora.py	/^        start = ind_lines.index("Solutions for:")$/;"	kind:variable	line:64
+test_sephora.py	../test_sephora.py	1;"	kind:file	line:1
+time	../Sephora_1.py	/^import time$/;"	kind:namespace	line:2
+time	../Sephora_2.py	/^import time$/;"	kind:namespace	line:2
+time	../Sephora_3.py	/^import time$/;"	kind:namespace	line:2
+time	../Sephora_4.py	/^import time$/;"	kind:namespace	line:2
+time	../Sephora_5.py	/^import time$/;"	kind:namespace	line:2
+time	../Sephora_v2.py	/^import time$/;"	kind:namespace	line:8
+time	../Sephora_v2_Algenist.py	/^import time$/;"	kind:namespace	line:2
+time	../Sephora_v2_Clinique.py	/^import time$/;"	kind:namespace	line:2
+time	../Sephora_v2_Dr-Brandt.py	/^import time$/;"	kind:namespace	line:2
+time	../Sephora_v2_Dr-Dennis-Gross.py	/^import time$/;"	kind:namespace	line:2
+time	../Sephora_v2_Dr-Dennis.py	/^import time$/;"	kind:namespace	line:2
+time	../Sephora_v2_Dr-Jart.py	/^import time$/;"	kind:namespace	line:2
+time	../Sephora_v2_Drunk-Elephant.py	/^import time$/;"	kind:namespace	line:2
+time	../Sephora_v2_all_content.py	/^import time$/;"	kind:namespace	line:2
+time	../algenist_test.py	/^import time$/;"	kind:namespace	line:2
+time	../brand_productName.py	/^import time$/;"	kind:namespace	line:2
+time	../next_test.py	/^import time$/;"	kind:namespace	line:2
+time	../organized_sephora.py	/^import time$/;"	kind:namespace	line:2
+time	../test_sephora.py	/^import time$/;"	kind:namespace	line:2
+wait	../Sephora_4.py	/^wait = WebDriverWait(driver, 5)$/;"	kind:variable	line:29
+wait	../Sephora_5.py	/^wait = WebDriverWait(driver, 1) # 3$/;"	kind:variable	line:24
+wait	../Sephora_v2.py	/^wait = WebDriverWait(driver, 1) # 3$/;"	kind:variable	line:30
+wait	../Sephora_v2_Algenist.py	/^wait = WebDriverWait(driver, 1) # 3$/;"	kind:variable	line:25
+wait	../Sephora_v2_Clinique.py	/^wait = WebDriverWait(driver, 1) # 3$/;"	kind:variable	line:25
+wait	../Sephora_v2_Dr-Brandt.py	/^wait = WebDriverWait(driver, 1) # 3$/;"	kind:variable	line:25
+wait	../Sephora_v2_Dr-Dennis-Gross.py	/^wait = WebDriverWait(driver, 1) # 3$/;"	kind:variable	line:25
+wait	../Sephora_v2_Dr-Dennis.py	/^wait = WebDriverWait(driver, 1) # 3$/;"	kind:variable	line:25
+wait	../Sephora_v2_Dr-Jart.py	/^wait = WebDriverWait(driver, 1) # 3$/;"	kind:variable	line:25
+wait	../Sephora_v2_Drunk-Elephant.py	/^wait = WebDriverWait(driver, 1) # 3$/;"	kind:variable	line:25
+wait	../Sephora_v2_all_content.py	/^wait = WebDriverWait(driver, 1) # 3$/;"	kind:variable	line:24
+wait	../test_sephora.py	/^wait = WebDriverWait(driver, 5)$/;"	kind:variable	line:27
+webdriver	../Fortune500_Scraper.py	/^from selenium import webdriver$/;"	kind:namespace	line:3
+webdriver	../Sephora_1.py	/^from selenium import webdriver$/;"	kind:namespace	line:4
+webdriver	../Sephora_2.py	/^from selenium import webdriver$/;"	kind:namespace	line:4
+webdriver	../Sephora_3.py	/^from selenium import webdriver$/;"	kind:namespace	line:5
+webdriver	../Sephora_4.py	/^from selenium import webdriver$/;"	kind:namespace	line:5
+webdriver	../Sephora_5.py	/^from selenium import webdriver$/;"	kind:namespace	line:5
+webdriver	../Sephora_v2.py	/^from selenium import webdriver$/;"	kind:namespace	line:11
+webdriver	../Sephora_v2_Algenist.py	/^from selenium import webdriver$/;"	kind:namespace	line:6
+webdriver	../Sephora_v2_Clinique.py	/^from selenium import webdriver$/;"	kind:namespace	line:6
+webdriver	../Sephora_v2_Dr-Brandt.py	/^from selenium import webdriver$/;"	kind:namespace	line:6
+webdriver	../Sephora_v2_Dr-Dennis-Gross.py	/^from selenium import webdriver$/;"	kind:namespace	line:6
+webdriver	../Sephora_v2_Dr-Dennis.py	/^from selenium import webdriver$/;"	kind:namespace	line:6
+webdriver	../Sephora_v2_Dr-Jart.py	/^from selenium import webdriver$/;"	kind:namespace	line:6
+webdriver	../Sephora_v2_Drunk-Elephant.py	/^from selenium import webdriver$/;"	kind:namespace	line:6
+webdriver	../Sephora_v2_all_content.py	/^from selenium import webdriver$/;"	kind:namespace	line:6
+webdriver	../algenist_test.py	/^from selenium import webdriver$/;"	kind:namespace	line:6
+webdriver	../brand_productName.py	/^from selenium import webdriver$/;"	kind:namespace	line:5
+webdriver	../next_test.py	/^from selenium import webdriver$/;"	kind:namespace	line:4
+webdriver	../organized_sephora.py	/^from selenium import webdriver$/;"	kind:namespace	line:4
+webdriver	../test_sephora.py	/^from selenium import webdriver$/;"	kind:namespace	line:5
+what_it_is	../organized_sephora.py	/^        what_it_is = soup.find("b", text = "What it is:")$/;"	kind:variable	line:48
+what_it_is	../regex_test.py	/^def what_it_is():$/;"	kind:function	line:72
+what_it_is	../test_sephora.py	/^    def what_it_is(text):$/;"	kind:function	line:120
+what_it_is_desc	../organized_sephora.py	/^        what_it_is_desc = what_it_is.next_sibling.next_sibling.next_sibling$/;"	kind:variable	line:49
+what_it_is_desc	../regex_test.py	/^what_it_is_desc = what_it_is(content)$/;"	kind:variable	line:129
+what_it_is_desc_2	../regex_test.py	/^what_it_is_desc_2 = []$/;"	kind:variable	line:107
+what_it_is_desc_2	../regex_test.py	/^what_it_is_desc_2 = []$/;"	kind:variable	line:115
+what_it_is_header	../regex_test.py	/^what_it_is_header = text.index("What it is:")$/;"	kind:variable	line:100

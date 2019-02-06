@@ -1,0 +1,18 @@
+# import necessary modules
+# create CSV file (for later write)
+# get to origins website
+# close pop up window
+# click on skincare tab
+# get list of categories under skincare
+# for loop that goes through each category
+    # get a list of links for each product
+    # for loop through this list to access product page
+        # grab product info 
+            # item link
+            # product name
+            # product subheading
+            # recommended skintype
+            # details
+            # ingredients
+        # write to CSV file with product info
+

@@ -1,0 +1,35 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+NoSuchElementException	../Webscraper_reissue_v2.py	/^from selenium.common.exceptions import NoSuchElementException $/;"	kind:namespace	line:8
+Webscraper_reissue_v1.py	../Webscraper_reissue_v1.py	1;"	kind:file	line:1
+Webscraper_reissue_v2.py	../Webscraper_reissue_v2.py	1;"	kind:file	line:1
+chrome_options	../Webscraper_reissue_v1.py	/^chrome_options = webdriver.ChromeOptions()$/;"	kind:variable	line:11
+chrome_options	../Webscraper_reissue_v2.py	/^chrome_options = webdriver.ChromeOptions()$/;"	kind:variable	line:12
+csv	../Webscraper_reissue_v1.py	/^import csv$/;"	kind:namespace	line:3
+csv	../Webscraper_reissue_v2.py	/^import csv$/;"	kind:namespace	line:4
+date	../Webscraper_reissue_v1.py	/^from datetime import date$/;"	kind:namespace	line:5
+date	../Webscraper_reissue_v2.py	/^from datetime import date$/;"	kind:namespace	line:6
+driver	../Webscraper_reissue_v1.py	/^driver = webdriver.Chrome(options=chrome_options)$/;"	kind:variable	line:14
+driver	../Webscraper_reissue_v2.py	/^driver = webdriver.Chrome(options=chrome_options)$/;"	kind:variable	line:17
+file_csv	../Webscraper_reissue_v1.py	/^    file_csv = csv.writer(f)$/;"	kind:variable	line:20
+function1	../test.py	/^def function1():$/;"	kind:function	line:1
+function2	../test.py	/^def function2(param):$/;"	kind:function	line:5
+getProductLinks	../Webscraper_reissue_v1.py	/^def getProductLinks():$/;"	kind:function	line:47
+productInfo	../Webscraper_reissue_v1.py	/^def productInfo():$/;"	kind:function	line:124
+productInfo	../Webscraper_reissue_v2.py	/^def productInfo(list_from_scroll):$/;"	kind:function	line:79
+scrollUntilNoNewElements	../Webscraper_reissue_v1.py	/^def scrollUntilNoNewElements():$/;"	kind:function	line:24
+scrollUntilNoNewElementsWithContinuousSave	../Webscraper_reissue_v1.py	/^def scrollUntilNoNewElementsWithContinuousSave():$/;"	kind:function	line:64
+scrollUntilNoNewElementsWithContinuousSave	../Webscraper_reissue_v2.py	/^def scrollUntilNoNewElementsWithContinuousSave():$/;"	kind:function	line:23
+scrollUntilNoNewElementsWithContinuousSave	../test-continuousScroll_linkSave.py	/^def scrollUntilNoNewElementsWithContinuousSave():$/;"	kind:function	line:1
+test-continuousScroll_linkSave.py	../test-continuousScroll_linkSave.py	1;"	kind:file	line:1
+test.py	../test.py	1;"	kind:file	line:1
+time	../Webscraper_reissue_v1.py	/^import time$/;"	kind:namespace	line:4
+time	../Webscraper_reissue_v2.py	/^import time$/;"	kind:namespace	line:5
+url	../Webscraper_reissue_v1.py	/^url="https:\/\/reissue.co\/search"$/;"	kind:variable	line:8
+url	../Webscraper_reissue_v2.py	/^url="https:\/\/reissue.co\/search"$/;"	kind:variable	line:10
+webdriver	../Webscraper_reissue_v1.py	/^from selenium import webdriver$/;"	kind:namespace	line:6
+webdriver	../Webscraper_reissue_v2.py	/^from selenium import webdriver$/;"	kind:namespace	line:7
