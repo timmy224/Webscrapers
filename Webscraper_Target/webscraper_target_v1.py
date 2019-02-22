@@ -25,7 +25,7 @@ driver.get(url)
 def lazyLoadScroll():
     """ scrolls down entire webpage to let all products load """
     
-    time.sleep(10)
+    time.sleep(7)
 
     bodyElem = driver.find_element_by_tag_name('body')
     no_of_pagedowns = 45
@@ -57,7 +57,6 @@ def productInfo():
     
     for each in list_of_links:
         driver.get(each)
-        WebDriverWait(driver, 10)
 
         try:
             brandName_xpath = '//div[@class="styles__ProductDetailsTitleRelatedLinks-sc-12eg98-0 eVTLYK"]//span'
@@ -93,10 +92,11 @@ def productInfo():
                 inactive_ingredients = 'Inactive ingredients: ' + inactive_ingredients_all[19:]
             except NoSuchElementException:
                 inactive_ingredients = ''
+
+            ingredients = active_ingredients + inactive_ingredients
+
         except NoSuchElementException:
             ingredients = ''
-        
-        ingredients = active_ingredients + inactive_ingredients
 
         product_url = driver.current_url
 
@@ -113,14 +113,18 @@ def productInfo():
         file_csv.writerow([brandName, productName, ingredients, product_image, product_url])
         
         driver.back()
-        time.sleep(10)
+        time.sleep(7)
 
 def checkNextButton():
     """ checks for next button and clicks """
     
+    #driver.back()
+    #time.sleep(5)
+
     try:
         nextPageBtn_xpath = '//div[@class="h-display-flex h-flex-align-center h-flex-justify-center"]//a[@aria-label="next page"]'
         nextPageBtn = driver.find_element_by_xpath(nextPageBtn_xpath)
+        driver.execute_script("arguments[0].scrollIntoView();", nextPageBtn)
         nextPageBtn.click()
     
     except NoSuchElementException:
@@ -136,6 +140,7 @@ with open('Target_{}.csv'.format(date.today()), 'w') as f:
         lazyLoadScroll()
         getListofLinks()
         productInfo()
+        lazyLoadScroll()
         checkNextButton()
 
 os.system('pmset sleepnow') # sleeps computer after script finishes
