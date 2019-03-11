@@ -1,0 +1,63 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+EC	../Target_Haircare_Shampoo-Conditioner.py	/^from selenium.webdriver.support import expected_conditions as EC$/;"	kind:namespace	line:8
+EC	../webscraper_Target_haircare_v1.py	/^from selenium.webdriver.support import expected_conditions as EC$/;"	kind:namespace	line:8
+EC	../webscraper_target_skincare_v1.py	/^from selenium.webdriver.support import expected_conditions as EC$/;"	kind:namespace	line:8
+Keys	../Target_Haircare_Shampoo-Conditioner.py	/^from selenium.webdriver.common.keys import Keys$/;"	kind:namespace	line:7
+Keys	../webscraper_Target_haircare_v1.py	/^from selenium.webdriver.common.keys import Keys$/;"	kind:namespace	line:7
+Keys	../webscraper_target_skincare_v1.py	/^from selenium.webdriver.common.keys import Keys$/;"	kind:namespace	line:7
+NoSuchElementException	../Target_Haircare_Shampoo-Conditioner.py	/^from selenium.common.exceptions import NoSuchElementException$/;"	kind:namespace	line:10
+NoSuchElementException	../webscraper_Target_haircare_v1.py	/^from selenium.common.exceptions import NoSuchElementException$/;"	kind:namespace	line:10
+NoSuchElementException	../webscraper_target_skincare_v1.py	/^from selenium.common.exceptions import NoSuchElementException$/;"	kind:namespace	line:10
+Target_Haircare_Shampoo-Conditioner.py	../Target_Haircare_Shampoo-Conditioner.py	1;"	kind:file	line:1
+WebDriverWait	../Target_Haircare_Shampoo-Conditioner.py	/^from selenium.webdriver.support.ui import WebDriverWait$/;"	kind:namespace	line:6
+WebDriverWait	../webscraper_Target_haircare_v1.py	/^from selenium.webdriver.support.ui import WebDriverWait$/;"	kind:namespace	line:6
+WebDriverWait	../webscraper_target_skincare_v1.py	/^from selenium.webdriver.support.ui import WebDriverWait$/;"	kind:namespace	line:6
+a	../test.py	/^a = 'Inctive ingredientsAvob'$/;"	kind:variable	line:1
+checkNextButton	../Target_Haircare_Shampoo-Conditioner.py	/^def checkNextButton():$/;"	kind:function	line:118
+checkNextButton	../webscraper_Target_haircare_v1.py	/^def checkNextButton():$/;"	kind:function	line:118
+checkNextButton	../webscraper_target_skincare_v1.py	/^def checkNextButton():$/;"	kind:function	line:118
+chrome_options	../Target_Haircare_Shampoo-Conditioner.py	/^chrome_options = webdriver.ChromeOptions()$/;"	kind:variable	line:13
+chrome_options	../webscraper_Target_haircare_v1.py	/^chrome_options = webdriver.ChromeOptions()$/;"	kind:variable	line:13
+chrome_options	../webscraper_target_skincare_v1.py	/^chrome_options = webdriver.ChromeOptions()$/;"	kind:variable	line:13
+csv	../Target_Haircare_Shampoo-Conditioner.py	/^import csv$/;"	kind:namespace	line:1
+csv	../webscraper_Target_haircare_v1.py	/^import csv$/;"	kind:namespace	line:1
+csv	../webscraper_target_skincare_v1.py	/^import csv$/;"	kind:namespace	line:1
+date	../Target_Haircare_Shampoo-Conditioner.py	/^from datetime import date$/;"	kind:namespace	line:4
+date	../webscraper_Target_haircare_v1.py	/^from datetime import date$/;"	kind:namespace	line:4
+date	../webscraper_target_skincare_v1.py	/^from datetime import date$/;"	kind:namespace	line:4
+driver	../Target_Haircare_Shampoo-Conditioner.py	/^driver = webdriver.Chrome(options=chrome_options)$/;"	kind:variable	line:18
+driver	../webscraper_Target_haircare_v1.py	/^driver = webdriver.Chrome(options=chrome_options)$/;"	kind:variable	line:18
+driver	../webscraper_target_skincare_v1.py	/^driver = webdriver.Chrome(options=chrome_options)$/;"	kind:variable	line:18
+file_csv	../Target_Haircare_Shampoo-Conditioner.py	/^    file_csv = csv.writer(f)$/;"	kind:variable	line:136
+file_csv	../webscraper_Target_haircare_v1.py	/^    file_csv = csv.writer(f)$/;"	kind:variable	line:136
+file_csv	../webscraper_target_skincare_v1.py	/^    file_csv = csv.writer(f)$/;"	kind:variable	line:136
+getListofLinks	../Target_Haircare_Shampoo-Conditioner.py	/^def getListofLinks():$/;"	kind:function	line:37
+getListofLinks	../webscraper_Target_haircare_v1.py	/^def getListofLinks():$/;"	kind:function	line:37
+getListofLinks	../webscraper_target_skincare_v1.py	/^def getListofLinks():$/;"	kind:function	line:37
+lazyLoadScroll	../Target_Haircare_Shampoo-Conditioner.py	/^def lazyLoadScroll():$/;"	kind:function	line:25
+lazyLoadScroll	../webscraper_Target_haircare_v1.py	/^def lazyLoadScroll():$/;"	kind:function	line:25
+lazyLoadScroll	../webscraper_target_skincare_v1.py	/^def lazyLoadScroll():$/;"	kind:function	line:25
+os	../Target_Haircare_Shampoo-Conditioner.py	/^import os$/;"	kind:namespace	line:3
+os	../webscraper_Target_haircare_v1.py	/^import os$/;"	kind:namespace	line:3
+os	../webscraper_target_skincare_v1.py	/^import os$/;"	kind:namespace	line:3
+page_number	../Target_Haircare_Shampoo-Conditioner.py	/^    page_number = 0$/;"	kind:variable	line:139
+page_number	../webscraper_Target_haircare_v1.py	/^    page_number = 0$/;"	kind:variable	line:139
+productInfo	../Target_Haircare_Shampoo-Conditioner.py	/^def productInfo():$/;"	kind:function	line:55
+productInfo	../webscraper_Target_haircare_v1.py	/^def productInfo():$/;"	kind:function	line:55
+productInfo	../webscraper_target_skincare_v1.py	/^def productInfo():$/;"	kind:function	line:55
+test.py	../test.py	1;"	kind:file	line:1
+time	../Target_Haircare_Shampoo-Conditioner.py	/^import time$/;"	kind:namespace	line:2
+time	../webscraper_Target_haircare_v1.py	/^import time$/;"	kind:namespace	line:2
+time	../webscraper_target_skincare_v1.py	/^import time$/;"	kind:namespace	line:2
+url	../Target_Haircare_Shampoo-Conditioner.py	/^url = 'https:\/\/www.target.com\/c\/shampoo-conditioner-hair-care-beauty\/-\/N-5xu0g'$/;"	kind:variable	line:20
+url	../webscraper_Target_haircare_v1.py	/^url = 'https:\/\/www.target.com\/c\/hair-care-beauty\/-\/N-5xu0k'$/;"	kind:variable	line:20
+webdriver	../Target_Haircare_Shampoo-Conditioner.py	/^from selenium import webdriver$/;"	kind:namespace	line:5
+webdriver	../webscraper_Target_haircare_v1.py	/^from selenium import webdriver$/;"	kind:namespace	line:5
+webdriver	../webscraper_target_skincare_v1.py	/^from selenium import webdriver$/;"	kind:namespace	line:5
+webscraper_Target_haircare_v1.py	../webscraper_Target_haircare_v1.py	1;"	kind:file	line:1
+webscraper_target_skincare_v1.py	../webscraper_target_skincare_v1.py	1;"	kind:file	line:1
